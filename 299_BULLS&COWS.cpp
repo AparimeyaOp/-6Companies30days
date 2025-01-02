@@ -40,7 +40,7 @@ secret and guess consist of digits only.
 
 class Solution {
 public:
-    /* same as approach 2 just simplified version
+    /* same as approach 2 just simplified version*/
 
     string getHint(string secret, string guess) {
         //intialization
